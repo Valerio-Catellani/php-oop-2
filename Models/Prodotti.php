@@ -25,7 +25,6 @@ class Prodotto
         $data = file_get_contents(__DIR__ . '/../resurces/' . $path . '.json');
         $dataToArray = json_decode($data, true);
         $arrayAllCategories = Category::getAllCategories();
-        var_dump($arrayAllCategories['0']);
         $elements = [];
 
         foreach ($dataToArray as $item) {
@@ -37,6 +36,7 @@ class Prodotto
             }
             $elements[] = new Prodotto($item['id'], $item['img'], $item['name'], $item['prezzo'], $category, $item['valutazione']);
         }
+        var_dump($elements);
         return $elements;
     }
 }
