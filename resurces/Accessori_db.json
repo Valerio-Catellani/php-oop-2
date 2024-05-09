@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "img": "https://irp-cdn.multiscreensite.com/9f3c1e55/import/base/img.LTIwMDc4NzkwMTc.jpeg",
+        "img": " https://irp-cdn.multiscreensite.com/9f3c1e55/import/base/img.LTIwMDc4NzkwMTc.jpeg",
         "name": "Cuccia Comfort per Cani",
         "prezzo": "50€",
         "animale": "cane",
-        "valutazione": "4.7",
+        "valutazione": "1.5",
         "tipo": "accessorio",
         "tipoDiAccessorio": "cucce",
         "marca": "Cane Sportivo",

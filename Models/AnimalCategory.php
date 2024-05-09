@@ -1,9 +1,9 @@
 <?php
 
-class Category
+class AnimalCategory
 {
     public string $name;
-    private string $color;
+    public string $color;
     function __construct(string $name)
     {
         $this->name = $name;
@@ -11,11 +11,12 @@ class Category
     }
     public static function getAllCategories()
     {
-        //TODO possibile funzione che ci estrapola direttamente le categorie
         $allCategories = json_decode(file_get_contents(__DIR__ . "/../resurces/Category_db.json"), true);
+
         $categories = [];
-        foreach ($allCategories as $category => $categoryValue) {
-            $categories[] = new Category($categoryValue);
+        foreach ($allCategories[0]['animale'] as $category) {
+
+            $categories[] = new AnimalCategory($category);
         };
         return $categories;
     }
@@ -24,17 +25,17 @@ class Category
     {
         switch ($name) {
             case "cane":
-                return "Marrone";
+                return "red";
             case "gatto":
-                return "Grigio";
+                return "green";
             case "pesce":
-                return "Blu";
+                return "blue";
             case "cavallo":
-                return "Marrone scuro";
+                return "brown";
             case "uccello":
-                return "Giallo";
+                return "yellow";
             default:
-                return "Colore non specificato";
+                return "white";
         }
     }
 }

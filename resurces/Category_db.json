@@ -1,7 +1,21 @@
 [
-    "cane",
-    "gatto",
-    "pesce",
-    "uccello",
-    "cavallo"
+    {
+        "animale": [
+            "cane",
+            "gatto",
+            "pesce",
+            "uccello",
+            "cavallo"
+        ]
+    },
+    {
+        "tipoDiAccessorio": [
+            "cucce",
+            "guinzagli",
+            "toelettatura",
+            "ciotole",
+            "acquari",
+            "lettiere"
+        ]
+    }
 ]
