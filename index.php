@@ -1,11 +1,10 @@
 <?php
 include __DIR__ . "/Models/Prodotti.php";
-//array categorie
-//$primoprodotto = new Prodotto(1, '#', 'prodotto1', '10€', 'cane' , '4.35');
+
 $accessori = Prodotto::fetchAll('Accessori_db');
 $cibo = Prodotto::fetchAll('Cibo_db');
 $giochi = Prodotto::fetchAll('Giochi_db');
-// var_dump($primoprodotto->animale);
+
 
 
 ?>

@@ -11,6 +11,7 @@ class Category
     }
     public static function getAllCategories()
     {
+        //TODO possibile funzione che ci estrapola direttamente le categorie
         $allCategories = json_decode(file_get_contents(__DIR__ . "/../resurces/Category_db.json"), true);
         $categories = [];
         foreach ($allCategories as $category => $categoryValue) {
@@ -19,7 +20,7 @@ class Category
         return $categories;
     }
 
-    public function getColor(string $name)
+    public function getColor($name)
     {
         switch ($name) {
             case "cane":

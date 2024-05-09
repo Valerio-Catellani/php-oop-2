@@ -10,7 +10,7 @@
         "peso": "5kg",
         "tipologia": "umido",
         "marca": "Mia Marca",
-        "descrizione": "Descrizione per il cibo del cane",
+        "descrizione": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel commodi veritatis dolor, laborum esse amet odit deserunt, aliquam quas velit expedita aliquid doloribus in voluptate. Ipsa deserunt nam ratione maxime perferendis, beatae praesentium dolores, aliquam nesciunt inventore quos eveniet ipsam voluptatem. Laborum doloribus vero vel deserunt pariatur provident sit necessitatibus modi id animi aperiam assumenda rerum alias blanditiis, molestias amet quos? Laboriosam, possimus quasi. Aperiam amet molestias molestiae voluptatibus officiis, harum facilis sunt? Molestias at dolores assumenda maiores eum pariatur cumque quod sed praesentium commodi! Dolore cumque tempore in delectus eius quisquam, excepturi velit eaque ipsum nostrum, incidunt cum minus?",
         "scadenza": "2024-01-01",
         "disponibilità": "disponibile"
     },
@@ -25,7 +25,7 @@
         "peso": "3kg",
         "tipologia": "secco",
         "marca": "Altra Marca",
-        "descrizione": "Descrizione per il cibo del gatto",
+        "descrizione": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel commodi veritatis dolor, laborum esse amet odit deserunt, aliquam quas velit expedita aliquid doloribus in voluptate. Ipsa deserunt nam ratione maxime perferendis, beatae praesentium dolores, aliquam nesciunt inventore quos eveniet ipsam voluptatem. Laborum doloribus vero vel deserunt pariatur provident sit necessitatibus modi id animi aperiam assumenda rerum alias blanditiis, molestias amet quos? Laboriosam, possimus quasi. Aperiam amet molestias molestiae voluptatibus officiis, harum facilis sunt? Molestias at dolores assumenda maiores eum pariatur cumque quod sed praesentium commodi! Dolore cumque tempore in delectus eius quisquam, excepturi velit eaque ipsum nostrum, incidunt cum minus?",
         "scadenza": "2024-03-15",
         "disponibilità": "disponibile"
     },
@@ -40,7 +40,7 @@
         "peso": "100g",
         "tipologia": "granuli",
         "marca": "Oceano",
-        "descrizione": "Cibo per pesci tropicale",
+        "descrizione": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel commodi veritatis dolor, laborum esse amet odit deserunt, aliquam quas velit expedita aliquid doloribus in voluptate. Ipsa deserunt nam ratione maxime perferendis, beatae praesentium dolores, aliquam nesciunt inventore quos eveniet ipsam voluptatem. Laborum doloribus vero vel deserunt pariatur provident sit necessitatibus modi id animi aperiam assumenda rerum alias blanditiis, molestias amet quos? Laboriosam, possimus quasi. Aperiam amet molestias molestiae voluptatibus officiis, harum facilis sunt? Molestias at dolores assumenda maiores eum pariatur cumque quod sed praesentium commodi! Dolore cumque tempore in delectus eius quisquam, excepturi velit eaque ipsum nostrum, incidunt cum minus?",
         "scadenza": "2024-05-20",
         "disponibilità": "disponibile"
     },
@@ -55,7 +55,7 @@
         "peso": "1kg",
         "tipologia": "semi",
         "marca": "Piuma",
-        "descrizione": "Miscela di semi per uccelli esotici",
+        "descrizione": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel commodi veritatis dolor, laborum esse amet odit deserunt, aliquam quas velit expedita aliquid doloribus in voluptate. Ipsa deserunt nam ratione maxime perferendis, beatae praesentium dolores, aliquam nesciunt inventore quos eveniet ipsam voluptatem. Laborum doloribus vero vel deserunt pariatur provident sit necessitatibus modi id animi aperiam assumenda rerum alias blanditiis, molestias amet quos? Laboriosam, possimus quasi. Aperiam amet molestias molestiae voluptatibus officiis, harum facilis sunt? Molestias at dolores assumenda maiores eum pariatur cumque quod sed praesentium commodi! Dolore cumque tempore in delectus eius quisquam, excepturi velit eaque ipsum nostrum, incidunt cum minus?",
         "scadenza": "2024-04-10",
         "disponibilità": "disponibile"
     },
@@ -70,7 +70,7 @@
         "peso": "10kg",
         "tipologia": "granuli",
         "marca": "Cavalli Felici",
-        "descrizione": "Cibo per cavalli adulti",
+        "descrizione": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel commodi veritatis dolor, laborum esse amet odit deserunt, aliquam quas velit expedita aliquid doloribus in voluptate. Ipsa deserunt nam ratione maxime perferendis, beatae praesentium dolores, aliquam nesciunt inventore quos eveniet ipsam voluptatem. Laborum doloribus vero vel deserunt pariatur provident sit necessitatibus modi id animi aperiam assumenda rerum alias blanditiis, molestias amet quos? Laboriosam, possimus quasi. Aperiam amet molestias molestiae voluptatibus officiis, harum facilis sunt? Molestias at dolores assumenda maiores eum pariatur cumque quod sed praesentium commodi! Dolore cumque tempore in delectus eius quisquam, excepturi velit eaque ipsum nostrum, incidunt cum minus?",
         "scadenza": "2024-06-30",
         "disponibilità": "disponibile"
     },
@@ -85,7 +85,7 @@
         "peso": "4kg",
         "tipologia": "secco",
         "marca": "Cani Sani",
-        "descrizione": "Alimento completo per cani di taglia medio-piccola",
+        "descrizione": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel commodi veritatis dolor, laborum esse amet odit deserunt, aliquam quas velit expedita aliquid doloribus in voluptate. Ipsa deserunt nam ratione maxime perferendis, beatae praesentium dolores, aliquam nesciunt inventore quos eveniet ipsam voluptatem. Laborum doloribus vero vel deserunt pariatur provident sit necessitatibus modi id animi aperiam assumenda rerum alias blanditiis, molestias amet quos? Laboriosam, possimus quasi. Aperiam amet molestias molestiae voluptatibus officiis, harum facilis sunt? Molestias at dolores assumenda maiores eum pariatur cumque quod sed praesentium commodi! Dolore cumque tempore in delectus eius quisquam, excepturi velit eaque ipsum nostrum, incidunt cum minus?",
         "scadenza": "2024-02-28",
         "disponibilità": "disponibile"
     },
@@ -100,7 +100,7 @@
         "peso": "2kg",
         "tipologia": "umido",
         "marca": "Gatti Felici",
-        "descrizione": "Cibo umido per gatti adulti",
+        "descrizione": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel commodi veritatis dolor, laborum esse amet odit deserunt, aliquam quas velit expedita aliquid doloribus in voluptate. Ipsa deserunt nam ratione maxime perferendis, beatae praesentium dolores, aliquam nesciunt inventore quos eveniet ipsam voluptatem. Laborum doloribus vero vel deserunt pariatur provident sit necessitatibus modi id animi aperiam assumenda rerum alias blanditiis, molestias amet quos? Laboriosam, possimus quasi. Aperiam amet molestias molestiae voluptatibus officiis, harum facilis sunt? Molestias at dolores assumenda maiores eum pariatur cumque quod sed praesentium commodi! Dolore cumque tempore in delectus eius quisquam, excepturi velit eaque ipsum nostrum, incidunt cum minus?",
         "scadenza": "2024-04-15",
         "disponibilità": "disponibile"
     },
@@ -115,7 +115,7 @@
         "peso": "200g",
         "tipologia": "pellet",
         "marca": "Mare Profondo",
-        "descrizione": "Cibo per pesci d'acqua dolce",
+        "descrizione": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel commodi veritatis dolor, laborum esse amet odit deserunt, aliquam quas velit expedita aliquid doloribus in voluptate. Ipsa deserunt nam ratione maxime perferendis, beatae praesentium dolores, aliquam nesciunt inventore quos eveniet ipsam voluptatem. Laborum doloribus vero vel deserunt pariatur provident sit necessitatibus modi id animi aperiam assumenda rerum alias blanditiis, molestias amet quos? Laboriosam, possimus quasi. Aperiam amet molestias molestiae voluptatibus officiis, harum facilis sunt? Molestias at dolores assumenda maiores eum pariatur cumque quod sed praesentium commodi! Dolore cumque tempore in delectus eius quisquam, excepturi velit eaque ipsum nostrum, incidunt cum minus?",
         "scadenza": "2024-07-10",
         "disponibilità": "disponibile"
     },
@@ -130,7 +130,7 @@
         "peso": "800g",
         "tipologia": "misto",
         "marca": "Voliera",
-        "descrizione": "Miscela di semi per uccelli canori",
+        "descrizione": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel commodi veritatis dolor, laborum esse amet odit deserunt, aliquam quas velit expedita aliquid doloribus in voluptate. Ipsa deserunt nam ratione maxime perferendis, beatae praesentium dolores, aliquam nesciunt inventore quos eveniet ipsam voluptatem. Laborum doloribus vero vel deserunt pariatur provident sit necessitatibus modi id animi aperiam assumenda rerum alias blanditiis, molestias amet quos? Laboriosam, possimus quasi. Aperiam amet molestias molestiae voluptatibus officiis, harum facilis sunt? Molestias at dolores assumenda maiores eum pariatur cumque quod sed praesentium commodi! Dolore cumque tempore in delectus eius quisquam, excepturi velit eaque ipsum nostrum, incidunt cum minus?",
         "scadenza": "2024-03-20",
         "disponibilità": "disponibile"
     },
@@ -145,7 +145,7 @@
         "peso": "15kg",
         "tipologia": "fiocchi",
         "marca": "Equestro",
-        "descrizione": "Alimento equilibrato per cavalli sportivi",
+        "descrizione": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel commodi veritatis dolor, laborum esse amet odit deserunt, aliquam quas velit expedita aliquid doloribus in voluptate. Ipsa deserunt nam ratione maxime perferendis, beatae praesentium dolores, aliquam nesciunt inventore quos eveniet ipsam voluptatem. Laborum doloribus vero vel deserunt pariatur provident sit necessitatibus modi id animi aperiam assumenda rerum alias blanditiis, molestias amet quos? Laboriosam, possimus quasi. Aperiam amet molestias molestiae voluptatibus officiis, harum facilis sunt? Molestias at dolores assumenda maiores eum pariatur cumque quod sed praesentium commodi! Dolore cumque tempore in delectus eius quisquam, excepturi velit eaque ipsum nostrum, incidunt cum minus?",
         "scadenza": "2024-09-25",
         "disponibilità": "disponibile"
     }
